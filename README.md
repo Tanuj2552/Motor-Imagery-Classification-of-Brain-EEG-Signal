@@ -5,7 +5,7 @@ The data set for the project is obtained by requeisting bci organisation
 http://www.bbci.de/competition/iv/
 
 The obtained dataset can be found from
-http://bbci.de/competition/iv/download/
+https://drive.google.com/drive/folders/1iMc6bimGLAnnElXuvmHI9noCC7vMNiC9?usp=sharing
 
 The kind of dataset used here is 2 class motor imagery, which deals with right, left hands and legs(based on the chosen set)
 
