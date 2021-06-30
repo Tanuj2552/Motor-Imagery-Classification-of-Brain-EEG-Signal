@@ -1,4 +1,4 @@
-# Home-Automation-using-EEG
+# Motor-Imagery-Classification-on-Brain-EEG-Signal
 This project aim is to classify the motor imagery signals extracted from the brain (using an Electro Encephalogram) using ML 
 
 The data set for the project is obtained by requeisting bci organisation 
